@@ -1,33 +1,33 @@
-  img{
-    margin-left: 27%;
-    width: 900px;
+img{
 
-  }
+    margin-left: 24%;
+    width: 1000px;
 
+}
 
-  .titulo{
-    h1{
+h1{
 
-      text-align: center;
-    
-    }
+    text-align: center;
 
-  }
+}
 
-
-
-.introducao{
 
 p{
 
-    text-align: center;
-    font-size: 20px;
+
+    text-align: center
+    
+}
+
+.beneficios{
+
+       background: #FFFFFF;
 
 }
 
-strong{
 
-    color: black;
+.itens{
 
-}
+    font-style: italic;
+   
 }
