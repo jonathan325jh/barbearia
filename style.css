@@ -1,0 +1,33 @@
+  img{
+    margin-left: 27%;
+    width: 900px;
+
+  }
+
+
+  .titulo{
+    h1{
+
+      text-align: center;
+    
+    }
+
+  }
+
+
+
+.introducao{
+
+p{
+
+    text-align: center;
+    font-size: 20px;
+
+}
+
+strong{
+
+    color: black;
+
+}
+}
