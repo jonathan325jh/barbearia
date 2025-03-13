@@ -1,14 +1,22 @@
+
 img{
 
-    margin-left: 24%;
-    width: 1000px;
-
+    width: 100%;
+    margin-left: 0%;
+    
+    
 }
 
+h2{
+
+    text-align: center;
+
+}
 
 .principal{
 
     background: #CCCCCC;
+    padding: 30px;
 }
 
 .principal{
@@ -25,6 +33,7 @@ p{
 
     text-align: center
     
+
 }
 }
 
@@ -32,23 +41,25 @@ p{
 
 font-style: italic;
    background: white;
-}
 
-img{
-
-    width: 100%;
-    margin-left: 0%;
-    
-    
-}
 
 em strong{
 
         color: red;
 }
 
-h2{
 
-    text-align: center;
+ul{
 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+}
+.imagem{
+
+    width: 30%;
+    margin-left: 35%;
+    margin-top: -5%;
 }
