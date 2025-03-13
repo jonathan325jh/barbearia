@@ -5,10 +5,18 @@ img{
 
 }
 
+
+.principal{
+
+    background: #CCCCCC;
+}
+
+.principal{
+
 h1{
 
     text-align: center;
-
+    
 }
 
 
@@ -18,16 +26,29 @@ p{
     text-align: center
     
 }
+}
 
 .beneficios{
 
-       background: #FFFFFF;
-
+font-style: italic;
+   background: white;
 }
 
+img{
 
-.itens{
+    width: 100%;
+    margin-left: 0%;
+    
+    
+}
 
-    font-style: italic;
-   
+em strong{
+
+        color: red;
+}
+
+h2{
+
+    text-align: center;
+
 }
