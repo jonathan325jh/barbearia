@@ -1,3 +1,15 @@
+.titulo-centralizado{
+        text-align: center;
+
+}
+
+.titulo-principal{
+       
+    padding-left: 20px;
+}
+
+
+
 
 img{
 
@@ -7,24 +19,10 @@ img{
     
 }
 
-h2{
-
-    text-align: center;
-
-}
-
 .principal{
 
     background: #CCCCCC;
     padding: 30px;
-}
-
-.principal{
-
-h1{
-
-    text-align: center;
-    
 }
 
 
@@ -35,13 +33,14 @@ p{
     
 
 }
-}
+
 
 .beneficios{
 
 font-style: italic;
    background: white;
 
+}
 
 em strong{
 
@@ -56,7 +55,9 @@ ul{
     width: 20%;
     margin-right: 15%;
 }
-}
+
+
+
 .imagem{
 
     width: 30%;
